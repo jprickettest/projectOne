@@ -10,6 +10,7 @@ namespace SimpleApp
     {
         static void Main(string[] args)
         {
+Console.WriteLine("MyFirstBranch");
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
