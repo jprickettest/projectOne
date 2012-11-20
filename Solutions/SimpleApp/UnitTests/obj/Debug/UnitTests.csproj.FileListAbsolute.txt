@@ -1,0 +1,7 @@
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\bin\Debug\SimpleApp.exe
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\bin\Debug\SimpleApp.pdb
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\jpricket\projectOne\Solutions\SimpleApp\UnitTests\obj\Debug\UnitTests.pdb
