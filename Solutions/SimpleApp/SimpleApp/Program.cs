@@ -9,7 +9,7 @@ namespace SimpleApp
     class Program
     {
         static void Main(string[] args)
-        {
+        { //one
         }
     }
 }
