@@ -1,0 +1,8 @@
+# Simple script yaml
+# https://aka.ms/yaml
+
+queue: 'Hosted VS2017'
+
+steps:
+- script: |
+    'echo done.'
